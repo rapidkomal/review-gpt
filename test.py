@@ -6,3 +6,10 @@ def test():
     
     
     return c
+
+def new_one():
+    
+    
+    
+    
+    return 5
