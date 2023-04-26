@@ -13,3 +13,6 @@ def new_one():
     
     
     return 5
+
+def runn():
+    return a
